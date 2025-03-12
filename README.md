@@ -125,7 +125,7 @@ Players earn points as they solve puzzles or answer questions. It’s designed f
 
 ## License
 
-This project is released under the [MIT License](LICENSE). Feel free to use and modify for educational purposes.
+This project is released under the [MIT License]([LICENSE](https://github.com/UniqueNIHAL/Constitution-Quest---IC-Activity-2/blob/main/LICENSE)). Feel free to use and modify for educational purposes.
 
 ---
 
