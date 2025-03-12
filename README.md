@@ -11,7 +11,6 @@ An interactive puzzle-based Flutter app that helps you learn the basics of the I
 - [Setup & Installation](#setup--installation)  
 - [Usage](#usage)  
 - [Build for Android](#build-for-android)  
-- [Screenshots](#screenshots)  
 - [License](#license)
 
 ---
@@ -122,17 +121,7 @@ Players earn points as they solve puzzles or answer questions. It’s designed f
 
 ---
 
-## Screenshots
 
-| Welcome Screen | Level Select |
-|---------------|--------------|
-| *(insert image)* | *(insert image)* |
-
-| Preamble Puzzle | Articles Matching | Scenario Quiz |
-|----------------|--------------------|---------------|
-| *(image)*      | *(image)*         | *(image)*     |
-
----
 
 ## License
 
